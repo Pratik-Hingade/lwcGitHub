@@ -9,7 +9,6 @@
 <lightning-button class="slds-p-top_x-small slds-p-left_x-large" variant='brand-outline' label='Div' title='title' onclick={handleDiv}></lightning-button>
 </div>
         <div style="font-color:blue">
-            click here for result-
 <b>
     Result:-{result}
 </b> 
