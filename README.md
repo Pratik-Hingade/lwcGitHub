@@ -8,8 +8,10 @@
 <lightning-button class="slds-p-top_x-small slds-p-left_x-large" variant='brand' label='Multi' title='title' onclick={handleMulti}></lightning-button>
 <lightning-button class="slds-p-top_x-small slds-p-left_x-large" variant='brand-outline' label='Div' title='title' onclick={handleDiv}></lightning-button>
 </div>
-<b><i>
+        <div style="font-color:blue">
+<b>
     Result:-{result}
-</b> </i>
+</b> 
+            </div>
     </lightning-card>
 </template>
